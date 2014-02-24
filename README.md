@@ -59,7 +59,7 @@
 * http://pragmaticstudio.com/ruby
 * http://pragmaticstudio.com/rails
 
-## Other ruby miscellany
+## Other ruby miscellany and other stuff
 * http://iwanttolearnruby.com/ (links)
 * http://rakeroutes.com/blog/learning-ruby-rails-and-programming/ (link)
 * https://github.com/generalassembly/ga-ruby-on-rails-for-devs
