@@ -1,4 +1,4 @@
-#Resharing some learning resources on ruby
+#Resharing learning resources on ruby
 
 
 ## Tutorials
